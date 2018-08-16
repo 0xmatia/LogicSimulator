@@ -1,0 +1,14 @@
+
+And04 Gate test ... Ok
+And16 Gate test ... Ok
+Half Adder Gate test ... Ok
+Full Adder Gate test ... Ok
+Add4 Gate test ... Ok
+Add16 Gate test ... Ok
+inc16 Gate test ... Ok
+Mux04 Gate test ... Ok
+Mux16 Gate test ...Input pin a not found on Logical Circuit 06 Mux16
+Mux4way16 Gate test ...Input pin a not found on Logical Circuit 07 Mux4Way16
+Mux8way16 Gate test ...Input pin x not found on Logical Circuit 08 Mux8Way16
+DMux4Way Gate test ...Input pin in not found on Logical Circuit 09 DMux4Way
+DMux4Way Gate test ...Input pin in not found on Logical Circuit 10 DMux8Way
